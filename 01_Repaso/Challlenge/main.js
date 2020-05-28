@@ -14,3 +14,7 @@ myPenguin.graznar = function graznar() {
 };
 
 myPenguin.graznar();
+
+class Penguin {
+    constructor(character,origin,notes,puedeVolar, graznar)
+}
